@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Fertilizante",
+    "description": "Top Crop",
+    "price": 2400,
+    "thumbnail": "http://imagen.jpg",
+    "code": "001",
+    "stock": 19
+  },
+  {
+    "id": 2,
+    "title": "Sustrato",
+    "description": "Grow mix",
+    "price": 5400,
+    "thumbnail": "http://imagen.jpg",
+    "code": "002",
+    "stock": 30
+  },
+  {
+    "id": "3",
+    "title": "Insecticida",
+    "description": "Kawsay",
+    "price": 1400,
+    "thumbnail": "http://imagen.jpg",
+    "code": "003",
+    "stock": 17
+  },
+  {
+    "id": "8cbf1755-4a45-42d2-9e08-b1885df2c06b",
+    "title": "producto prueba",
+    "description": "Este es un producto de prueba",
+    "price": 200,
+    "thumbnail": "sin imagen",
+    "code": "abc1c3a0.9884547684251668",
+    "stock": 25
+  },
+  }
+]
